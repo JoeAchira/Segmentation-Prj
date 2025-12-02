@@ -54,6 +54,11 @@ This project formed part of my **Cambridge Data Science course** and focuses on 
 
 ---
 
+### Visuals
+
+<img src="images/Segimg1.png" alt="Silhouette Method" width="900"/>
+<img src="images/Segimg2.png" alt="Clusters after PCA" width="600"/>
+
 ### Learning Outcomes
 - Gained hands-on experience with clustering and dimensionality reduction.
 - Improved interpretation of unsupervised learning results in a business context.
@@ -72,6 +77,6 @@ Completed as part of the **University of Cambridge Data Science Certificate** pr
 
 ---
 
-### 📚 References
+### References
 - [Scikit-learn Clustering Guide](https://scikit-learn.org/stable/modules/clustering.html)
 - [K-Means Clustering in Practice](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
